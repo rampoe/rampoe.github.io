@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.hero-main-thumb {
+  width: 600px;
+}
+
+.testimoner {
+  width: 150px;
+  border-radius: 50%;
+}
