@@ -1,0 +1,35 @@
+/*---------------------------------------------------------------------
+Variable
+-----------------------------------------------------------------------*/
+
+:root {
+    --iq-title-text: #fff;
+    --iq-body-text: #b3b3c0;
+    --iq-bg-light-color: #f3f3f3;
+    --iq-primary: #f9b707;
+    --iq-primary-light: #f5c795;
+    --iq-primary-dark: #ff6c00;
+    --iq-secondary: #050C21;
+    --iq-secondary-light: #c1c1c1;
+    --iq-secondary-dark: #7d7d7d;
+    --iq-info-light:#b4aaec;
+    --iq-success: #64c5ae;
+    --iq-light: #020716;
+    --white: #fff;
+    --iq-black: #000;
+    --iq-light-border: #f2f2f2;
+    --iq-dark-border: #131418;
+    --iq-gray:#f7f7f7;
+    --iq-bs-btn:#333;
+    --iq-menu-hover:#999;
+    --iq-blue: #16181c;
+    --iq-dark-bg:#000411;
+    --iq-gray-border:#ced4da;
+    --iq-fancy-box:#181a21;
+    --iq-dark-blue:#242f6c;
+    --iq-border:#0d1018;
+    --iq-table-brder:#292c34;
+
+    /* borrder-radius */
+    --border-radius: 8px;
+  }
